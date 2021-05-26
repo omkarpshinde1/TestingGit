@@ -1,0 +1,16 @@
+C:\Users\Ashwini\source\repos\MyFirstCsharp\bin\Debug\net5.0\MyFirstCsharp.exe
+C:\Users\Ashwini\source\repos\MyFirstCsharp\bin\Debug\net5.0\MyFirstCsharp.deps.json
+C:\Users\Ashwini\source\repos\MyFirstCsharp\bin\Debug\net5.0\MyFirstCsharp.runtimeconfig.json
+C:\Users\Ashwini\source\repos\MyFirstCsharp\bin\Debug\net5.0\MyFirstCsharp.runtimeconfig.dev.json
+C:\Users\Ashwini\source\repos\MyFirstCsharp\bin\Debug\net5.0\MyFirstCsharp.dll
+C:\Users\Ashwini\source\repos\MyFirstCsharp\bin\Debug\net5.0\ref\MyFirstCsharp.dll
+C:\Users\Ashwini\source\repos\MyFirstCsharp\bin\Debug\net5.0\MyFirstCsharp.pdb
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.csprojAssemblyReference.cache
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.AssemblyInfoInputs.cache
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.AssemblyInfo.cs
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.dll
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\ref\MyFirstCsharp.dll
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.pdb
+C:\Users\Ashwini\source\repos\MyFirstCsharp\obj\Debug\net5.0\MyFirstCsharp.genruntimeconfig.cache
